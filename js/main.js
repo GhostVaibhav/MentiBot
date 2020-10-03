@@ -5,6 +5,7 @@ Vanilla Template
 https://templatemo.com/tm-526-vanilla
 
 */
+var onlinehaikya = "Is the browser online? " + navigator.onLine;
 
 jQuery(document).ready(function($) {
 
